@@ -1,0 +1,7 @@
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\The Power Sum\The Power Sum\bin\Debug\The Power Sum.exe.config
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\The Power Sum\The Power Sum\bin\Debug\The Power Sum.exe
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\The Power Sum\The Power Sum\bin\Debug\The Power Sum.pdb
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\The Power Sum\The Power Sum\obj\Debug\The Power Sum.csprojAssemblyReference.cache
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\The Power Sum\The Power Sum\obj\Debug\The Power Sum.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\The Power Sum\The Power Sum\obj\Debug\The Power Sum.exe
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\The Power Sum\The Power Sum\obj\Debug\The Power Sum.pdb

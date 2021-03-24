@@ -1,0 +1,7 @@
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Sherlock and Anagrams_\Sherlock and Anagrams_\bin\Debug\Sherlock and Anagrams_.exe.config
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Sherlock and Anagrams_\Sherlock and Anagrams_\bin\Debug\Sherlock and Anagrams_.exe
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Sherlock and Anagrams_\Sherlock and Anagrams_\bin\Debug\Sherlock and Anagrams_.pdb
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Sherlock and Anagrams_\Sherlock and Anagrams_\obj\Debug\Sherlock and Anagrams_.csprojAssemblyReference.cache
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Sherlock and Anagrams_\Sherlock and Anagrams_\obj\Debug\Sherlock and Anagrams_.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Sherlock and Anagrams_\Sherlock and Anagrams_\obj\Debug\Sherlock and Anagrams_.exe
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Sherlock and Anagrams_\Sherlock and Anagrams_\obj\Debug\Sherlock and Anagrams_.pdb

@@ -1,0 +1,13 @@
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.csprojAssemblyReference.cache
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfoInputs.cache
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfo.cs
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.csproj.CoreCompileInputs.cache
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.exe
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.deps.json
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.json
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.dev.json
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.dll
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.pdb
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.dll
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.pdb
+S:\A-DERSLER\Nesneye Yönelik Programlama\GenericLinkedList\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.genruntimeconfig.cache

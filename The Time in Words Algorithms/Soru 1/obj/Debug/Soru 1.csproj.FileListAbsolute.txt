@@ -1,0 +1,7 @@
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Soru 1\Soru 1\bin\Debug\Soru 1.exe.config
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Soru 1\Soru 1\bin\Debug\Soru 1.exe
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Soru 1\Soru 1\bin\Debug\Soru 1.pdb
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Soru 1\Soru 1\obj\Debug\Soru 1.csprojAssemblyReference.cache
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Soru 1\Soru 1\obj\Debug\Soru 1.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Soru 1\Soru 1\obj\Debug\Soru 1.exe
+C:\Users\Salih\Desktop\Roket\Yarışma kodu\Soru 1\Soru 1\obj\Debug\Soru 1.pdb

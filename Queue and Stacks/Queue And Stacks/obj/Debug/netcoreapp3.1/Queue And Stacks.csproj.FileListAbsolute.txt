@@ -1,0 +1,13 @@
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\obj\Debug\netcoreapp3.1\Queue And Stacks.csprojAssemblyReference.cache
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\obj\Debug\netcoreapp3.1\Queue And Stacks.AssemblyInfoInputs.cache
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\obj\Debug\netcoreapp3.1\Queue And Stacks.AssemblyInfo.cs
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\obj\Debug\netcoreapp3.1\Queue And Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\bin\Debug\netcoreapp3.1\Queue And Stacks.exe
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\bin\Debug\netcoreapp3.1\Queue And Stacks.deps.json
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\bin\Debug\netcoreapp3.1\Queue And Stacks.runtimeconfig.json
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\bin\Debug\netcoreapp3.1\Queue And Stacks.runtimeconfig.dev.json
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\bin\Debug\netcoreapp3.1\Queue And Stacks.dll
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\bin\Debug\netcoreapp3.1\Queue And Stacks.pdb
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\obj\Debug\netcoreapp3.1\Queue And Stacks.dll
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\obj\Debug\netcoreapp3.1\Queue And Stacks.pdb
+C:\Users\Salih\source\repos\Queue And Stacks\Queue And Stacks\obj\Debug\netcoreapp3.1\Queue And Stacks.genruntimeconfig.cache

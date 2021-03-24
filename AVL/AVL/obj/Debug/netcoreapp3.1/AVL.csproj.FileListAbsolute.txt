@@ -1,0 +1,13 @@
+C:\Users\Salih\Desktop\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.exe
+C:\Users\Salih\Desktop\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.deps.json
+C:\Users\Salih\Desktop\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.runtimeconfig.json
+C:\Users\Salih\Desktop\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.runtimeconfig.dev.json
+C:\Users\Salih\Desktop\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.dll
+C:\Users\Salih\Desktop\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.pdb
+C:\Users\Salih\Desktop\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.AssemblyInfo.cs
+C:\Users\Salih\Desktop\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.dll
+C:\Users\Salih\Desktop\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.pdb
+C:\Users\Salih\Desktop\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.genruntimeconfig.cache
+C:\Users\Salih\Desktop\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.csprojAssemblyReference.cache

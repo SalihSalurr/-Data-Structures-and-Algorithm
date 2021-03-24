@@ -1,0 +1,13 @@
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\bin\Debug\netcoreapp3.1\BinarySerachTree.exe
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\bin\Debug\netcoreapp3.1\BinarySerachTree.deps.json
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\bin\Debug\netcoreapp3.1\BinarySerachTree.runtimeconfig.json
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\bin\Debug\netcoreapp3.1\BinarySerachTree.runtimeconfig.dev.json
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\bin\Debug\netcoreapp3.1\BinarySerachTree.dll
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\bin\Debug\netcoreapp3.1\BinarySerachTree.pdb
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\obj\Debug\netcoreapp3.1\BinarySerachTree.AssemblyInfoInputs.cache
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\obj\Debug\netcoreapp3.1\BinarySerachTree.AssemblyInfo.cs
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\obj\Debug\netcoreapp3.1\BinarySerachTree.csproj.CoreCompileInputs.cache
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\obj\Debug\netcoreapp3.1\BinarySerachTree.dll
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\obj\Debug\netcoreapp3.1\BinarySerachTree.pdb
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\obj\Debug\netcoreapp3.1\BinarySerachTree.genruntimeconfig.cache
+S:\A-DERSLER\Algoritma\BinarySerachTree\BinarySerachTree\obj\Debug\netcoreapp3.1\BinarySerachTree.csprojAssemblyReference.cache
